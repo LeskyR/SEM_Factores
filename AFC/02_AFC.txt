@@ -1,0 +1,20 @@
+Nombre: Análisis factorial confirmatorio
+
+Publicado en: 'Modelos Estadísticos de Análisis de Factores que Afectan el Rendimiento Escolar'
+Portal UNAH/MM:	'https://mm.unah.edu.hn/descargar-tesis/'
+
+Descripción: 'En el análisis factorial confirmatorio (AFC), el investigador especifica el número de
+	      factores y el patrón de relación entre el indicador y las cargas factoriales de antemano,
+	      así como otros parámetros.  Además este análisis utiliza diagramas de ruta para representar 
+	      factores y variables.'
+
+Palabras clave: 'Análisis factorial confirmatorio, medidas de bondad de ajuste, coeficientes de confiabilidad.' 
+
+Author: Lesky Rivas
+
+Cargar: 
+
+	Datos: TerceroEP
+
+	Resultado esperado: 'un diagrama que muestra cómo un conjunto de variables explicativas influye en
+	la variable dependiente bajo consideración.'
