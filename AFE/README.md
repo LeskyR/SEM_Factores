@@ -81,10 +81,10 @@ scree(mat_cor)
 fa.parallel(mat_cor,n.obs=34,fa="fa",fm="minres")
 ```
 
-![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/AFE/screeplot.jpg)
+![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/AFE/screeplot.png)
 
 
-![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/AFE/parrallelanalysis.jpg)
+![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/AFE/parrallelanalysis.png)
 
 ```
 #modelo de análisis factorial exploratorio, estimación por máxima verosimilitud
