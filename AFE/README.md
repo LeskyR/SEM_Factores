@@ -1,5 +1,5 @@
 
-´Nombre: Análisis factorial exploratorio
+'Nombre: Análisis factorial exploratorio
 
 Publicado en: 'Modelos Estadísticos de Análisis de Factores que Afectan el Rendimiento Escolar' 
 Portal UNAH/MM:	'https://mm.unah.edu.hn/descargar-tesis/'
@@ -13,7 +13,7 @@ Descrpción: 'El análisis factorial exploratorio (EFA) es un enfoque impulsado 
 
 Palabras claves: 'Análisis factorial exploratorio, Kaiser-Meyer-Olkin, Bartlett's Sphericity test.' 
 
-Autora: Lesky Rivas´
+Autora: Lesky Rivas'
 
 Cargar: 
 
