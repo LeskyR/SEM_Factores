@@ -114,6 +114,7 @@ semPaths(fitES2PLdata, intercepts = FALSE,edge.label.cex=0.8, optimizeLatRes = T
 #Medidas de bondad de ajuste
 fitmeasures(fitES2PLdata)
 ```
+![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/SEM/Modelo1.jpg)
 
 ```ruby
 
@@ -211,6 +212,8 @@ fitMsimpleB <- sem(modeloMsimpleB, data =  bfi_sPL11, se="bootstrap", bootstrap=
 parameterEstimates(ffitMsimpleB, ci=TRUE, level=0.95, boot.ci.type="perc")
 ```
 
+![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/SEM/Med_simple.jpg)
+
 ```ruby
 
 #Mediación Múltiple
@@ -245,6 +248,8 @@ semPaths(fitMmultiple, intercepts = FALSE,edge.label.cex=0.8, optimizeLatRes = T
 
 #las medidas de bondad de ajuste y la prueba de Sobel y el metodo de  bootstrapping, se aplican igual que en la mediación simple.
 ```
+
+![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/SEM/Med_multiple.jpg)
 
 ```ruby
 #validación del modelo, se verificó si este estaba afectado por el método común de la varianza
