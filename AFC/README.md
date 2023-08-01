@@ -11,7 +11,7 @@ Descripción: 'En el análisis factorial confirmatorio (AFC), el investigador es
 
 Palabras clave: 'Análisis factorial confirmatorio, medidas de bondad de ajuste, coeficientes de confiabilidad.' 
 
-Author: Lesky Rivas
+Autora: Lesky Rivas
 
 Cargar: 
 
