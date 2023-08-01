@@ -23,7 +23,7 @@ Cargar:
 		    de medición son indicadores razonables de las diversas dimensiones latentes.'  
   
 
-```
+```ruby
 #Instalación de paquetes y actualizaciones disponibles
   
   devtools::install_github("simsem/semTools/semTools")
