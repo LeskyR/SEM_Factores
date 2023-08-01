@@ -130,4 +130,4 @@ fitmeasures(fit_04FC)
 #Coeficientes de confiabilidad Alfa de Cronbach (Alpha)y Varianza Extraída Media (AVE)
 semTools::reliability(fit_04FC)
 ```
-![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/AFE/AFC11.jpg)
+![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/AFC/AFC11.jpg)
