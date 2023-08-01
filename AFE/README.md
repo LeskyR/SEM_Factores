@@ -1,5 +1,5 @@
 
-`Nombre: Análisis factorial exploratorio
+Nombre: Análisis factorial exploratorio
 
 Publicado en: 'Modelos Estadísticos de Análisis de Factores que Afectan el Rendimiento Escolar' 
 Portal UNAH/MM:	'https://mm.unah.edu.hn/descargar-tesis/'
@@ -13,7 +13,7 @@ Descrpción: 'El análisis factorial exploratorio (EFA) es un enfoque impulsado 
 
 Palabras claves: 'Análisis factorial exploratorio, Kaiser-Meyer-Olkin, Bartlett's Sphericity test. 
 
-Autora: Lesky Rivas`
+Autora: Lesky Rivas
 
 Cargar: 
 
@@ -23,7 +23,7 @@ Cargar:
 		    de medición son indicadores razonables de las diversas dimensiones latentes.'  
   
 
-
+```
 #Instalación de paquetes y actualizaciones disponibles
   
   devtools::install_github("simsem/semTools/semTools")
@@ -98,3 +98,4 @@ print(modelo3$loadings,cut=0)
 
 #muestra la información adicional de los factores 
 print(modelo3,cut=0,digits=3) 
+```
