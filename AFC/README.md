@@ -123,12 +123,11 @@ summary(fit_04FC, fit.measures = TRUE, standardized = TRUE)
 
 semPaths(fit_04FC, intercepts = FALSE,edge.label.cex=0.8, optimizeLatRes = TRUE, 
          groups = "lat",pastel = TRUE, exoVar = FALSE, sizeInt=5,edge.color ="black",esize = 6, label.prop=1,sizeLat = 6,"std")
-```
 
-```
 #Medidas de bondad de ajuste
 fitmeasures(fit_04FC)
 
 #Coeficientes de confiabilidad Alfa de Cronbach (Alpha)y Varianza Extraída Media (AVE)
 semTools::reliability(fit_04FC)
 ```
+![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/AFE/AFC11.jpg)
