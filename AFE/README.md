@@ -81,7 +81,8 @@ scree(mat_cor)
 fa.parallel(mat_cor,n.obs=34,fa="fa",fm="minres")
 ```
 
-https://github.com/LeskyR/SEM_Factores/blob/main/AFE/AFE_3factores.jpg
+![IMG1](https://github.com/LeskyR/SEM_Factores/blob/main/AFE/AFE_3factores.jpg)
+
 
 ```
 #modelo de análisis factorial exploratorio, estimación por máxima verosimilitud
