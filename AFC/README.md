@@ -2,7 +2,7 @@
 Nombre: Análisis factorial confirmatorio
 
 Publicado en: 'Modelos Estadísticos de Análisis de Factores que Afectan el Rendimiento Escolar'
-Portal UNAH/MM:	'https://mm.unah.edu.hn/descargar-tesis/'
+Portal UNAH/MM:	https://mm.unah.edu.hn/descargar-tesis/
 
 Descripción: 'En el análisis factorial confirmatorio (AFC), el investigador especifica el número de
 	      factores y el patrón de relación entre el indicador y las cargas factoriales de antemano,
