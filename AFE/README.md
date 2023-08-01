@@ -1,4 +1,4 @@
-
+```
 Nombre: Análisis factorial exploratorio
 
 Publicado en: 'Modelos Estadísticos de Análisis de Factores que Afectan el Rendimiento Escolar' 
@@ -21,7 +21,7 @@ Cargar:
 
 	Resultado esperado: 'determinar el número apropiado de factores comunes y descubrir qué variables 
 		    de medición son indicadores razonables de las diversas dimensiones latentes.'  
-  
+```  
 
 ```ruby
 #Instalación de paquetes y actualizaciones disponibles
