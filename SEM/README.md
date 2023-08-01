@@ -13,7 +13,7 @@ Descripción: 'El modelo de ecuaciones estructurales es una técnica estadístic
 
 Palabras clave: 'Ecuaciones estructurales, variables mediadores, prueba de Sobel, metodo de  bootstrapping, método común de la varianza.' 
 
-Author: Lesky Rivas
+Autora: Lesky Rivas
 
 Cargar: 
 
